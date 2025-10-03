@@ -3,7 +3,8 @@
 Este repositorio implementa la **planificación y ejecución de trayectorias en un robot SCARA** utilizando **ROS2**.  
 
 Incluye nodos para el parser de archivos **DXF**, la resolución de **cinemática inversa/directa**, la interpolación de trayectorias y la visualización en **RViz2** mediante un gemelo digital del robot.
- 
+
+Link del video: https://eiaedu-my.sharepoint.com/:v:/g/personal/martin_londono_eia_edu_co/EeXoaaz_cMtOtRLxrZ-khIMBR9vsQLsjDVPNEFBOlkVMOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ngVjFI
 ---
  
 ## 📂 Estructura del repositorio
